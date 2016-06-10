@@ -3,8 +3,7 @@ package com.pub.tool;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 /**
-*宋考俊吃屁
-*哈哈哈哈哈哈哈songkaojun
+*�ο����ǳ�ƨ
 */
 public class SwingConsole {
 	public static void run(final JFrame f,final int width,final int height) {
