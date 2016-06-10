@@ -4,6 +4,7 @@ import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 /**
 *宋考俊吃屁
+*哈哈哈哈哈哈哈songkaojun
 */
 public class SwingConsole {
 	public static void run(final JFrame f,final int width,final int height) {
